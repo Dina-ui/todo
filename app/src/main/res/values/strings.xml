@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nezabudka</string>
+    <string name="action_settings">Settings</string>
+    <string name="note_text">Введите текст заметки</string>
+    <string name="note_details_tittle">заметки</string>
+    <string name="save">сохранить</string>
+    <string name="completed">сохранить</string>
+</resources>
